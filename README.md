@@ -42,7 +42,7 @@ Example:
 
 ```bash
 # Inside your Rust project
-transpile-pyo3 --input src/lib.rs --output stubs/
+pyo3-hint-transpiler --input src/lib.rs --output stubs/
 ```
 
 ---
